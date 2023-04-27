@@ -6,7 +6,7 @@ Hello there! My name is Ashneet Chawla, and I am 17-year-old developer who is pa
 
 I developed an interest in coding when I was 14 years old, and I started with basic HTML and CSS. From there, I learned JavaScript and gradually progressed to more advanced web development technologies such as React.js. I also enjoy creating Discord bots, which allows me to explore different areas of programming.
 
-<img align="right" alt="Most languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ash&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
+<img align="right" alt="Most languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ash&show_icons=true&layout=compact&border_color=21262d&border_radius=6&background-color=transparent" />
 
 # Skills
 
